@@ -1,0 +1,28 @@
+{
+  "format_version": 1,
+  "items": {
+    "minecraft:paper": [
+      {
+        "name": "torocard",
+        "custom_model_data": 1,
+        "display_name": "TOROCard",
+        "icon": "torocard",
+        "allow_offhand": true
+      },
+      {
+        "name": "toropass",
+        "custom_model_data": 2,
+        "display_name": "TOROPass",
+        "icon": "toropass",
+        "allow_offhand": true
+      },
+      {
+        "name": "minupass",
+        "custom_model_data": 3,
+        "display_name": "Minupass",
+        "icon": "minupass",
+        "allow_offhand": true
+      }
+    ]
+  }
+}

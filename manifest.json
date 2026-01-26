@@ -1,0 +1,26 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "TORO Serverの公式リソースパック",
+    "name": "TORO Server Resourcepack",
+    "uuid": "d74309af-ba65-4844-bc31-4a9230842476",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [ 1, 20, 0 ]
+  },
+  "modules": [
+    {
+      "description": "TORO Serverの公式リソースパック",
+      "type": "resources",
+      "uuid": "35ce20f9-7b85-4533-a4a4-5741bb11f091",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

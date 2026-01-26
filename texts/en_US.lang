@@ -1,0 +1,5 @@
+entity.endermite.name=Hamster
+item.spawn_egg.entity.endermite.name=Hamster Spawn Egg
+item.torocard.name=TOROCard
+item.toropass.name=TOROPass
+item.minupass.name=Minupass

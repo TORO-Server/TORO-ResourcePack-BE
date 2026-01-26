@@ -1,0 +1,15 @@
+{
+  "resource_pack_name": "TOROServer ResourcePack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "minupass": {
+      "textures": "textures/items/card/minupass"
+    },  
+    "torocard": {
+      "textures": "textures/items/card/torocard"
+    },
+    "toropass": {
+      "textures": "textures/items/card/toropass"
+    }
+  }
+}
