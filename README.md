@@ -1,6 +1,6 @@
 # TORO-ResourcePack-BE
 
-TORO ServerのBE用リソースパック
+TORO ServerのBedrock Edition (統合版) 用リソースパック
 
 ## 対応の範囲
 
